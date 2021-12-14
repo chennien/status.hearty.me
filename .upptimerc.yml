@@ -1,31 +1,39 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: chennien # Your GitHub organization or username, where this repository lives
+repo: status.hearty.me # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: 溫度日記 Hearty Journal
+    url: https://hearty.me/robots.txt
+    icon: https://i.hearty.app/favicon.ico
+  - name: 短網址 URL Shortener
+    url: https://go.hearty.me/favicon.ico
+    icon: https://picsee.io/favicon.ico
+  - name: 陳年 Nien 진년
+    url: https://www.nien.com/robots.txt
+    icon: https://www.nien.com/Nien.ico
 
 status-website:
+  theme: light
+
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.hearty.me
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  favicon: https://i.hearty.app/favicon.ico
+  logoUrl: https://i.hearty.app/i/header_login.png?o=1
+  name: 溫度日記 Hearty Journal
+  introTitle: "**Hearty Journal** System Status"
+  introMessage: "[溫度日記 Hearty Journal](https://hearty.me) is a beautiful diary and personal journal app with a focus on privacy. Securely record your thoughts, feelings, ideas and private moments with the ease of writing on a pad of paper. Its aesthetic looks like a piece of notebook paper with handwritten words on it."
+  scripts:
+    - src: https://i.hearty.app/analytics.min.js
+      async: true
+
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://hearty.me
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
