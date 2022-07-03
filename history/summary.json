@@ -4,18 +4,19 @@
     "url": "https://hearty.me/robots.txt",
     "icon": "https://i.hearty.app/favicon.ico",
     "slug": "hearty-journal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 91,
-    "timeDay": 85,
-    "timeWeek": 72,
-    "timeMonth": 110,
-    "timeYear": 91,
+    "time": 93,
+    "timeDay": 273,
+    "timeWeek": 121,
+    "timeMonth": 121,
+    "timeYear": 93,
     "dailyMinutesDown": {
+      "2022-07-03": 0,
       "2022-06-21": 21
     }
   },
@@ -44,9 +45,9 @@
     "slug": "nien",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 169,
     "timeDay": 1317,
@@ -54,7 +55,6 @@
     "timeMonth": 293,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2022-07-03": 8,
       "2022-04-19": 17
     }
   }
