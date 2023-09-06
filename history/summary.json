@@ -4,19 +4,19 @@
     "url": "https://hearty.me/robots.txt",
     "icon": "https://i.hearty.app/favicon.ico",
     "slug": "hearty-journal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 7996,
-    "timeWeek": 2067,
-    "timeMonth": 596,
+    "timeDay": 5357,
+    "timeWeek": 1846,
+    "timeMonth": 581,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2023-09-06": 0
+      "2023-09-06": 14
     }
   },
   {
