@@ -6,18 +6,16 @@
     "slug": "hearty-journal",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 53,
-    "timeWeek": 85,
-    "timeMonth": 553,
+    "timeDay": 64,
+    "timeWeek": 89,
+    "timeMonth": 552,
     "timeYear": 141,
-    "dailyMinutesDown": {
-      "2023-09-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "短網址 URL Shortener",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 64,
-    "timeWeek": 450,
-    "timeMonth": 459,
-    "timeYear": 459,
+    "time": 420,
+    "timeDay": 862,
+    "timeWeek": 488,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 306,
-    "timeDay": 194,
-    "timeWeek": 157,
-    "timeMonth": 168,
+    "time": 305,
+    "timeDay": 122,
+    "timeWeek": 159,
+    "timeMonth": 169,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2022-12-28": 20,
