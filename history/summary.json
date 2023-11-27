@@ -22,18 +22,20 @@
     "url": "https://go.hearty.me/favicon.ico",
     "icon": "https://picsee.io/favicon.ico",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 434,
+    "time": 435,
     "timeDay": 908,
     "timeWeek": 399,
     "timeMonth": 444,
     "timeYear": 457,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-27": 0
+    }
   },
   {
     "name": "陳年 Nien 진년",
