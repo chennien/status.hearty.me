@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 40,
-    "timeWeek": 76,
+    "timeDay": 50,
+    "timeWeek": 78,
     "timeMonth": 89,
     "timeYear": 140,
     "dailyMinutesDown": {}
@@ -24,18 +24,16 @@
     "slug": "url-shortener",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 557,
-    "timeWeek": 375,
-    "timeMonth": 437,
-    "timeYear": 457,
-    "dailyMinutesDown": {
-      "2023-11-27": 6
-    }
+    "time": 435,
+    "timeDay": 433,
+    "timeWeek": 402,
+    "timeMonth": 447,
+    "timeYear": 458,
+    "dailyMinutesDown": {}
   },
   {
     "name": "陳年 Nien 진년",
@@ -48,9 +46,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 290,
-    "timeDay": 94,
-    "timeWeek": 90,
+    "time": 289,
+    "timeDay": 108,
+    "timeWeek": 92,
     "timeMonth": 144,
     "timeYear": 276,
     "dailyMinutesDown": {
