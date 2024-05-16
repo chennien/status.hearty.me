@@ -22,19 +22,19 @@
     "url": "https://go.hearty.me/favicon.ico",
     "icon": "https://picsee.io/favicon.ico",
     "slug": "url-shortener",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 357,
-    "timeWeek": 326,
-    "timeMonth": 350,
+    "time": 434,
+    "timeDay": 475,
+    "timeWeek": 360,
+    "timeMonth": 358,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2024-05-16": 0
+      "2024-05-16": 9
     }
   },
   {
