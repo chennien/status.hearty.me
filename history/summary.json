@@ -4,18 +4,20 @@
     "url": "https://hearty.me/robots.txt",
     "icon": "https://i.hearty.app/favicon.ico",
     "slug": "hearty-journal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 51,
-    "timeWeek": 145,
-    "timeMonth": 141,
+    "timeDay": 113,
+    "timeWeek": 149,
+    "timeMonth": 142,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-21": 0
+    }
   },
   {
     "name": "短網址 URL Shortener",
