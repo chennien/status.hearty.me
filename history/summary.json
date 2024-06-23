@@ -6,14 +6,14 @@
     "slug": "hearty-journal",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "92.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 139,
-    "timeDay": 133,
-    "timeWeek": 139,
-    "timeMonth": 139,
+    "timeDay": 55,
+    "timeWeek": 138,
+    "timeMonth": 140,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2024-06-21": 102
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 438,
-    "timeDay": 62,
-    "timeWeek": 364,
-    "timeMonth": 428,
-    "timeYear": 418,
+    "timeDay": 246,
+    "timeWeek": 378,
+    "timeMonth": 413,
+    "timeYear": 417,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 39,
-    "timeWeek": 103,
-    "timeMonth": 236,
+    "timeDay": 111,
+    "timeWeek": 98,
+    "timeMonth": 237,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2024-03-16": 18
