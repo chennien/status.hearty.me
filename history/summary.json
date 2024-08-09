@@ -5,18 +5,20 @@
     "icon": "https://i.hearty.app/favicon.ico",
     "slug": "hearty-journal",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.96%",
     "time": 143,
-    "timeDay": 181,
-    "timeWeek": 144,
-    "timeMonth": 129,
+    "timeDay": 72,
+    "timeWeek": 118,
+    "timeMonth": 127,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-06-21": 102
+      "2024-07-19": 73,
+      "2024-06-21": 102,
+      "2024-03-16": 18
     }
   },
   {
@@ -25,17 +27,21 @@
     "icon": "https://picsee.io/favicon.ico",
     "slug": "url-shortener",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.96%",
     "time": 452,
-    "timeDay": 4377,
-    "timeWeek": 1406,
-    "timeMonth": 687,
-    "timeYear": 431,
-    "dailyMinutesDown": {}
+    "timeDay": 850,
+    "timeWeek": 1494,
+    "timeMonth": 696,
+    "timeYear": 432,
+    "dailyMinutesDown": {
+      "2024-07-19": 73,
+      "2024-06-21": 102,
+      "2024-03-16": 18
+    }
   },
   {
     "name": "陳年 Nien 진년",
@@ -43,18 +49,19 @@
     "icon": "https://www.nien.com/Nien.ico",
     "slug": "nien",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.96%",
     "time": 158,
-    "timeDay": 135,
-    "timeWeek": 112,
-    "timeMonth": 116,
+    "timeDay": 146,
+    "timeWeek": 117,
+    "timeMonth": 112,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2024-07-19": 73,
+      "2024-06-21": 102,
       "2024-03-16": 18
     }
   }
