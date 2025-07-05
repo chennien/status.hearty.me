@@ -49,7 +49,7 @@
     "url": "https://www.nien.com/robots.txt",
     "icon": "https://www.nien.com/Nien.ico",
     "slug": "nien",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "98.81%",
     "uptimeWeek": "99.83%",
@@ -61,6 +61,7 @@
     "timeMonth": 328,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2025-07-05": 0,
       "2025-07-04": 17,
       "2024-10-09": 24,
       "2024-07-19": 73
