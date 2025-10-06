@@ -14,7 +14,7 @@
     "timeDay": 198,
     "timeWeek": 177,
     "timeMonth": 166,
-    "timeYear": 189,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2025-08-27": 18,
       "2025-02-05": 196,
@@ -46,9 +46,9 @@
     "url": "https://www.nien.com/robots.txt",
     "icon": "https://www.nien.com/Nien.ico",
     "slug": "nien",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
@@ -58,6 +58,7 @@
     "timeMonth": 383,
     "timeYear": 326,
     "dailyMinutesDown": {
+      "2025-10-06": 0,
       "2025-09-22": 26,
       "2025-08-24": 16,
       "2025-08-23": 41,
