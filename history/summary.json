@@ -5,35 +5,42 @@
     "icon": "https://i.hearty.app/favicon.ico",
     "slug": "hearty-journal",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 184,
     "timeDay": 174,
     "timeWeek": 194,
     "timeMonth": 190,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-23": 17,
+      "2025-08-27": 18,
+      "2025-02-05": 196
+    }
   },
   {
     "name": "短網址 URL Shortener",
     "url": "https://go.hearty.me/favicon.ico",
     "icon": "https://picsee.io/favicon.ico",
     "slug": "url-shortener",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 82,
-    "timeWeek": 233,
-    "timeMonth": 199,
+    "timeDay": 150,
+    "timeWeek": 232,
+    "timeMonth": 200,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-20": 6,
+      "2025-08-27": 17
+    }
   },
   {
     "name": "陳年 Nien 진년",
