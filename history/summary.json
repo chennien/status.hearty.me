@@ -28,17 +28,17 @@
     "slug": "url-shortener",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.98%",
     "time": 222,
     "timeDay": 79,
     "timeWeek": 201,
     "timeMonth": 186,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-12-10": 0,
+      "2025-12-10": 70,
       "2025-08-27": 17
     }
   },
