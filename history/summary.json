@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 190,
-    "timeDay": 578,
-    "timeWeek": 243,
-    "timeMonth": 212,
+    "time": 191,
+    "timeDay": 243,
+    "timeWeek": 266,
+    "timeMonth": 213,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-10-23": 17,
@@ -33,9 +33,9 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 197,
-    "timeDay": 309,
-    "timeWeek": 243,
-    "timeMonth": 226,
+    "timeDay": 292,
+    "timeWeek": 265,
+    "timeMonth": 230,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2025-12-10": 112,
@@ -47,17 +47,17 @@
     "url": "https://www.nien.com/robots.txt",
     "icon": "https://www.nien.com/Nien.ico",
     "slug": "nien",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "93.22%",
-    "uptimeWeek": "95.64%",
+    "uptimeDay": "94.35%",
+    "uptimeWeek": "95.91%",
     "uptimeMonth": "96.86%",
     "uptimeYear": "99.43%",
-    "time": 324,
-    "timeDay": 477,
-    "timeWeek": 369,
-    "timeMonth": 381,
-    "timeYear": 346,
+    "time": 325,
+    "timeDay": 422,
+    "timeWeek": 376,
+    "timeMonth": 384,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2026-01-05": 81,
       "2026-01-04": 41,
@@ -109,8 +109,7 @@
       "2025-10-30": 17,
       "2025-10-29": 41,
       "2025-10-28": 55,
-      "2025-10-25": 15,
-      "2025-10-22": 32
+      "2025-10-25": 15
     }
   }
 ]
