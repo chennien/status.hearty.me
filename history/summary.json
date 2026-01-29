@@ -47,18 +47,19 @@
     "url": "https://www.nien.com/robots.txt",
     "icon": "https://www.nien.com/Nien.ico",
     "slug": "nien",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "96.77%",
-    "uptimeMonth": "96.37%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "99.48%",
     "time": 346,
     "timeDay": 596,
     "timeWeek": 399,
-    "timeMonth": 414,
+    "timeMonth": 416,
     "timeYear": 359,
     "dailyMinutesDown": {
+      "2026-01-29": 0,
       "2026-01-28": 21,
       "2026-01-27": 120,
       "2026-01-25": 126,
@@ -104,8 +105,7 @@
       "2025-11-27": 89,
       "2025-11-26": 35,
       "2025-11-25": 43,
-      "2025-11-24": 26,
-      "2025-11-23": 116
+      "2025-11-24": 26
     }
   }
 ]
