@@ -13,7 +13,7 @@
     "time": 187,
     "timeDay": 115,
     "timeWeek": 93,
-    "timeMonth": 160,
+    "timeMonth": 157,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-10-23": 17,
@@ -34,8 +34,8 @@
     "time": 187,
     "timeDay": 300,
     "timeWeek": 137,
-    "timeMonth": 179,
-    "timeYear": 194,
+    "timeMonth": 174,
+    "timeYear": 195,
     "dailyMinutesDown": {
       "2025-12-10": 112,
       "2025-08-27": 17
@@ -46,16 +46,16 @@
     "url": "https://www.nien.com/robots.txt",
     "icon": "https://www.nien.com/Nien.ico",
     "slug": "nien",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "94.65%",
+    "uptimeDay": "94.64%",
     "uptimeWeek": "96.42%",
     "uptimeMonth": "96.02%",
     "uptimeYear": "99.43%",
     "time": 355,
     "timeDay": 361,
     "timeWeek": 387,
-    "timeMonth": 415,
+    "timeMonth": 411,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2026-02-08": 78,
@@ -101,7 +101,7 @@
       "2025-12-12": 67,
       "2025-12-10": 95,
       "2025-12-09": 21,
-      "2025-12-08": 51
+      "2025-12-08": 21
     }
   }
 ]
