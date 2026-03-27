@@ -48,17 +48,17 @@
     "slug": "nien",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "90.36%",
-    "uptimeWeek": "94.78%",
-    "uptimeMonth": "95.84%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "89.32%",
+    "uptimeWeek": "94.00%",
+    "uptimeMonth": "95.66%",
+    "uptimeYear": "99.15%",
     "time": 368,
-    "timeDay": 521,
-    "timeWeek": 474,
-    "timeMonth": 443,
+    "timeDay": 566,
+    "timeWeek": 455,
+    "timeMonth": 445,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2026-03-27": 75,
+      "2026-03-27": 153,
       "2026-03-26": 110,
       "2026-03-25": 57,
       "2026-03-24": 184,
@@ -107,7 +107,7 @@
       "2026-01-30": 167,
       "2026-01-29": 147,
       "2026-01-28": 21,
-      "2026-01-27": 120
+      "2026-01-27": 96
     }
   }
 ]
