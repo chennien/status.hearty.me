@@ -4,7 +4,7 @@
     "url": "https://hearty.me/robots.txt",
     "icon": "https://i.hearty.app/favicon.ico",
     "slug": "hearty-journal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 150,
     "timeYear": 190,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2025-10-23": 17,
       "2025-08-27": 18
     }
@@ -49,9 +50,9 @@
     "slug": "nien",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "28.71%",
     "uptimeWeek": "60.54%",
-    "uptimeMonth": "85.04%",
+    "uptimeMonth": "85.17%",
     "uptimeYear": "98.21%",
     "time": 372,
     "timeDay": 242,
